@@ -1,0 +1,407 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "programs": "Programmes",
+    "coaches": "Coachs",
+    "pricing": "Tarifs",
+    "joinNow": "S'inscrire"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Construisez votre",
+      "highlight": "Force",
+      "quote": "\"Tout ce que l'esprit d'un homme peut concevoir et croire, il peut l'accomplir.\"",
+      "author": "Napoleon Hill"
+    },
+    "slide2": {
+      "title": "Repoussez vos",
+      "highlight": "Limites",
+      "quote": "\"La seule personne que vous êtes destiné à devenir est celle que vous décidez d'être.\"",
+      "author": "Ralph Waldo Emerson"
+    },
+    "slide3": {
+      "title": "Trouvez votre",
+      "highlight": "Équilibre",
+      "quote": "\"La force ne vient pas d'une capacité physique. Elle vient d'une volonté indomptable.\"",
+      "author": "Mahatma Gandhi"
+    },
+    "startTraining": "Commencer l'entraînement",
+    "scheduleMeeting": "Prenez rendez-vous aujourd'hui !",
+    "email": "info@fitnesszone.dz",
+    "phone": "+213 123 456 789",
+    "status": {
+      "open": "Nous sommes ouverts",
+      "closed": "Nous sommes fermés"
+    }
+  },
+  "footer": {
+    "description": "La destination de premier choix à M'sila pour le fitness, la transformation et la performance d'élite. Rejoignez la zone et redéfinissez vos limites.",
+    "quickLinksTitle": "Liens Rapides",
+    "contactTitle": "Contactez-nous",
+    "locationTitle": "Notre Emplacement",
+    "address": "Rue Frères Sahnoun, M'sila, Algérie",
+    "email": "hello@fitnesszone.dz",
+    "copyright": "© 2026 FITNESS ZONE M'SILA. TOUS DROITS RÉSERVÉS.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "logoAlt": "Logo Fitness Zone",
+    "copyrightYear": "© 2026 Fitness Zone M'sila.",
+    "allRightsReserved": "Tous droits réservés.",
+    "craftedBy": "Conçu par"
+  },
+  "socialProof": {
+    "stats": [
+      { "text": "10 000+ Membres", "label": "Communauté Active" },
+      { "text": "Note 4.9/5", "label": "Avis Google" },
+      { "text": "Mieux Noté", "label": "Région de M'sila" },
+      { "text": "Certifié", "label": "Coachs Professionnels" }
+    ]
+  },
+  "about": {
+    "subtitle": "Notre Philosophie",
+    "titleLine1": "PAS SEULEMENT UNE SALLE,",
+    "titleLine2": "UNE TRANSFORMATION.",
+    "description": "À Fitness Zone, nous pensons que la vraie transformation commence par l'esprit. Notre mission est de fournir un environnement d'élite où les résidents de M'sila peuvent repousser leurs limites et redéfinir ce qui est possible.",
+    "feature1Title": "Changement d'Identité",
+    "feature1Desc": "Nous vous aidons à arrêter d'essayer d'être en forme et à commencer à être un athlète.",
+    "feature2Title": "Équipement d'Élite",
+    "feature2Desc": "Matériel de classe mondiale conçu pour une efficacité et une sécurité maximales.",
+    "trainersCount": "15+",
+    "trainersLabel": "Coachs Experts"
+  },
+  "whyChoose": {
+    "subtitle": "Pourquoi Fitness Zone",
+    "titleLine1": "POURQUOI NOUS SOMMES",
+    "titleLine2": "LE CHOIX DE L'ÉLITE.",
+    "description": "Nous ne fournissons pas seulement de l'équipement ; nous offrons un environnement d'excellence absolue conçu pour forger la meilleure version de vous-même.",
+    "features": [
+      { "title": "Coaching d'Élite", "desc": "Nos coachs experts apportent des décennies d'expérience dans les sports de compétition et la transformation physique pour vous guider." },
+      { "title": "Matériel de Classe Mondiale", "desc": "Entraînez-vous sur l'équipement biomécaniquement parfait utilisé par les pros de l'IFBB et les athlètes olympiques." },
+      { "title": "Méthode Scientifique", "desc": "Pas de devinettes. Chaque protocole, de la nutrition à l'hypertrophie, est basé sur les dernières avancées en sciences du sport." },
+      { "title": "Fraternité de Fer", "desc": "Rejoignez une communauté de personnes dédiées qui se poussent mutuellement vers de nouveaux sommets chaque jour." },
+      { "title": "Récupération Complète", "desc": "Accédez à notre zone de récupération premium comprenant des bains de glace, des saunas et des massages avancés." },
+      { "title": "Résultats Garantis", "desc": "Suivez nos systèmes, travaillez dur, et votre transformation est absolument inévitable." }
+    ]
+  },
+  "programs": {
+    "subtitle": "Nos Programmes",
+    "titleLine1": "REPOUSSEZ VOS",
+    "titleLine2": "LIMITES.",
+    "items": [
+      { "title": "Culturisme", "desc": "Sculptez votre physique avec des programmes de musculation avancés." },
+      { "title": "Force Athlétique", "desc": "Maîtrisez les trois grands mouvements et développez une force brute absolue." },
+      { "title": "Cardio & HIIT", "desc": "Améliorez votre endurance et brûlez des graisses avec un entraînement de haute intensité." },
+      { "title": "Entraînement Personnel", "desc": "Obtenez une feuille de route personnalisée pour atteindre vos objectifs spécifiques." },
+      { "title": "Judo", "desc": "Maîtrisez l'art de l'équilibre et des projections avec un enseignement d'élite axé sur la discipline et la technique." },
+      { "title": "Karaté", "desc": "Développez des frappes explosives et une force mentale grâce à l'entraînement traditionnel et compétitif." },
+      { "title": "Boxe", "desc": "Affinez votre jeu de jambes et votre puissance de frappe avec un coaching professionnel pour tous les niveaux." },
+      { "title": "Kickboxing", "desc": "Combinez des coups de pied dynamiques et des enchaînements de boxe pour une condition physique ultime." }
+    ]
+  },
+  "combatSports": {
+    "subtitle": "Académie d'Arts Martiaux d'Élite",
+    "titleLine1": "LIBÉREZ VOTRE",
+    "titleLine2": "GUERRIER INTÉRIEUR.",
+    "descPart1": "Programmes de coaching professionnel conçus spécifiquement pour les",
+    "kids": "Enfants",
+    "and": "et",
+    "adults": "Adultes",
+    "descPart2": "de tous niveaux.",
+    "viewSchedule": "Voir le Planning",
+    "items": [
+      {
+        "title": "Judo",
+        "tag": "Technique & Discipline",
+        "desc": "Maîtrisez l'art de la projection et de la lutte au sol. Notre programme de Judo se concentre sur l'équilibre et la 'voie de la souplesse'.",
+        "benefits": ["Force du Tronc", "Équilibre", "Concentration Mentale"]
+      },
+      {
+        "title": "Kickboxing",
+        "tag": "Puissance & Agilité",
+        "desc": "Un programme de frappe énergique combinant boxe et coups de pied. Parfait pour le cardio et la perte de poids.",
+        "benefits": ["Cardio Total", "Gestion du Stress", "Vitesse de Frappe"]
+      },
+      {
+        "title": "Karaté",
+        "tag": "Tradition & Précision",
+        "desc": "Karaté Shotokan traditionnel axé sur la précision, les katas et le kumite. Développement du caractère et de l'autodéfense.",
+        "benefits": ["Autodéfense", "Discipline", "Souplesse"]
+      }
+    ]
+  },
+  "interactive": {
+    "subtitle": "Outils Interactifs",
+    "titleLine1": "CONNAISSEZ VOS",
+    "titleLine2": "CHIFFRES.",
+    "description": "Atteindre le corps de vos rêves est une science. Utilisez nos outils pour comprendre votre base et laissez nos experts concevoir le chemin parfait.",
+    "calories": "2 400+",
+    "caloriesLabel": "Calories Brûlées en Moyenne",
+    "successRate": "85%",
+    "successLabel": "Taux de Réussite",
+    "bmiTitle": "Calculateur d'IMC",
+    "weightLabel": "Poids (kg)",
+    "heightLabel": "Taille (cm)",
+    "yourBmi": "Votre IMC",
+    "status": "Statut",
+    "getPlan": "Obtenir un Plan Personnalisé",
+    "bmiStatus": {
+      "underweight": "Insuffisance pondérale",
+      "healthy": "Poids santé",
+      "overweight": "Surpoids",
+      "obese": "Obésité"
+    }
+  },
+  "pricing": {
+    "subtitle": "Abonnement Flexible",
+    "titleLine1": "CHOISISSEZ VOTRE",
+    "titleLine2": "PARCOURS.",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "save": "Économisez 30%",
+    "mostPopular": "Le Plus Populaire",
+    "currency": "DA / Mois",
+    "billedAnnually": "Facturé annuellement ({{amount}} DA)",
+    "cta": "Commencer la Transformation",
+    "plans": [
+      {
+        "name": "Starter",
+        "features": ["Accès Standard à la Salle", "Accès aux Vestiaires", "Plan d'Entraînement de Base", "1 Pass Invité/Mois"]
+      },
+      {
+        "name": "Pro",
+        "features": ["Toutes les Options Starter", "Tous les Cours Inclus", "Consultation Nutritionnelle", "Suivi des Progrès Avancé"]
+      },
+      {
+        "name": "Elite",
+        "features": ["Toutes les Options Pro", "Coach Personnel (2x/semaine)", "Accès Zone Récupération", "Suppléments Gratuits (Mensuel)"]
+      }
+    ]
+  },
+  "coaches": {
+    "subtitle": "Coachs Experts",
+    "titleLine1": "ENTRAÎNEZ-VOUS AVEC",
+    "titleLine2": "LES MEILLEURS.",
+    "items": [
+      {
+        "name": "Ahmed Benali",
+        "role": "Spécialiste de la Force",
+        "description": "Expert en force athlétique et transformation physique avec plus de 10 ans d'expérience.",
+        "specialties": ["Force Athlétique", "Hypertrophie", "Nutrition"]
+      },
+      {
+        "name": "Sarah Mansouri",
+        "role": "Experte HIIT & Yoga",
+        "description": "Spécialisée dans l'entraînement de haute intensité et la mobilité pour une santé durable.",
+        "specialties": ["HIIT", "Mobilité", "Perte de Poids"]
+      },
+      {
+        "name": "Karim Brahimi",
+        "role": "Entraîneur Fonctionnel",
+        "description": "Se concentre sur la performance athlétique et la prévention des blessures pour tous les niveaux.",
+        "specialties": ["Athlétisme", "Rééducation", "Endurance"]
+      }
+    ]
+  },
+  "owner": {
+    "subtitle": "Fondateur & Visionnaire",
+    "titleLine1": "DR. KAMEL",
+    "titleLine2": "LATRECHE.",
+    "quote": "\"Ma mission est de construire plus qu'une simple salle. Fitness Zone est un sanctuaire où la discipline rencontre la science, et où le potentiel de chaque membre est libéré grâce à un encadrement d'élite.\"",
+    "description": "En tant que fondateur et propriétaire de Fitness Zone, le Dr Kamel Latreche a établi cette installation avec une vision claire : fournir un espace professionnel où tout le monde peut transformer son mode de vie. Sa passion pour la santé et la discipline a créé un environnement axé sur la communauté qui aide chaque membre à atteindre ses objectifs personnels.",
+    "call": "Appeler Directement",
+    "email": "Nous Écrire",
+    "follow": "Suivre Kamel"
+  },
+  "transformations": {
+    "subtitle": "Résultats de Transformation",
+    "titleLine1": "VRAIES PERSONNES.",
+    "titleLine2": "VRAIS RÉSULTATS.",
+    "before": "Avant",
+    "after": "Après",
+    "program": "Programme {{time}}",
+    "validated": "Résultat Validé",
+    "items": [
+      {
+        "name": "Karim S.",
+        "stat": "-15kg de Graisse",
+        "time": "12 Semaines"
+      },
+      {
+        "name": "Lina M.",
+        "stat": "+5kg de Muscle",
+        "time": "16 Semaines"
+      }
+    ]
+  },
+  "testimonials": {
+    "titleLine1": "CE QUE DISENT",
+    "titleLine2": "NOS ATHLÈTES.",
+    "items": [
+      {
+        "name": "Yacine K.",
+        "text": "L'atmosphère ici est inégalée. Ce n'est pas seulement une salle, c'est une seconde maison. Les coachs se soucient vraiment de votre progression."
+      },
+      {
+        "name": "Amel B.",
+        "text": "La meilleure installation à M'sila, sans aucun doute. L'équipement est de premier ordre et la communauté est très solidaire."
+      },
+      {
+        "name": "Omar D.",
+        "text": "Fitness Zone a changé ma vie. J'ai obtenu des résultats que je n'aurais jamais cru possibles en seulement 6 mois."
+      },
+      {
+        "name": "Sofia R.",
+        "text": "Équipement d'élite et atmosphère premium. On se sent dans un club haut de gamme, pas juste une salle de sport."
+      }
+    ]
+  },
+  "faq": {
+    "subtitle": "Questions Fréquentes",
+    "titleLine1": "TOUT CE QUE VOUS",
+    "titleLine2": "DEVEZ SAVOIR.",
+    "description": "Nous fournissons les outils, le coaching et l'environnement pour vous aider à atteindre votre performance maximale.",
+    "contact": "Contacter le Support",
+    "items": [
+      {
+        "q": "Ai-je besoin d'expérience pour m'inscrire ?",
+        "a": "Pas du tout ! Nous accueillons les débutants et fournissons une orientation complète et un coaching personnalisé pour tous les nouveaux membres."
+      },
+      {
+        "q": "Quels sont vos horaires d'ouverture ?",
+        "a": "Nous sommes ouverts de 06h00 à 23h00 tous les jours à M'sila. Certains cours collectifs ont des horaires spécifiques."
+      },
+      {
+        "q": "Comment puis-je annuler mon abonnement ?",
+        "a": "Vous pouvez annuler à tout moment avec un préavis de 30 jours. Il vous suffit de visiter notre réception ou de nous envoyer un e-mail."
+      },
+      {
+        "q": "Proposez-vous des réductions pour les étudiants ?",
+        "a": "Oui, nous proposons des tarifs spéciaux pour les étudiants sur présentation d'une carte d'identité valide."
+      }
+    ]
+  },
+  "booking": {
+    "successTitle": "Inscription Envoyée !",
+    "successMessage": "Notre équipe vous contactera dans les 24 heures pour planifier votre première séance et votre visite.",
+    "backToWebsite": "Retour au Site",
+    "subtitle": "Rejoignez l'Élite",
+    "titleLine1": "COMMENCEZ VOTRE",
+    "titleLine2": "TRANSFORMATION.",
+    "description": "Remplissez le formulaire ci-dessous pour une consultation gratuite et une visite de notre établissement à M'sila. Votre nouvelle vie commence ici.",
+    "emailUs": "Nous Écrire",
+    "phoneNumber": "Numéro de Téléphone",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "form": {
+      "fullName": "Nom Complet",
+      "fullNamePlaceholder": "Jean Dupont",
+      "email": "Adresse E-mail",
+      "emailPlaceholder": "jean@example.com",
+      "goal": "Votre Objectif",
+      "goals": {
+        "weightLoss": "Perte de Poids",
+        "muscleGain": "Prise de Muscle",
+        "stamina": "Endurance Améliorée",
+        "rehab": "Rééducation",
+        "dryCupping": "Thérapie Hijama Sèche",
+        "recoveryMassage": "Massage de Récupération",
+        "fireCupping": "Thérapie Hijama par le Feu"
+      },
+      "message": "Message (Optionnel)",
+      "messagePlaceholder": "Parlez-nous de votre parcours fitness...",
+      "sending": "Envoi en cours...",
+      "send": "Envoyer l'Inscription",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  },
+  "privacy": {
+    "back": "Retour à l'Accueil",
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : Avril 2026",
+    "sections": [
+      {
+        "title": "Informations que nous collectons",
+        "content": "À Fitness Zone M'sila, nous collectons des informations personnelles telles que votre nom, votre adresse e-mail, votre numéro de téléphone et vos objectifs de fitness lorsque vous vous inscrivez via nos formulaires de réservation."
+      },
+      {
+        "title": "Comment nous utilisons vos données",
+        "items": [
+          "Pour vous contacter concernant votre orientation et vos visites de la salle.",
+          "Pour personnaliser vos plans d'entraînement et de nutrition.",
+          "Pour vous envoyer des mises à jour importantes concernant les horaires ou les conditions d'adhésion.",
+          "Pour améliorer les performances de notre site web."
+        ]
+      }
+    ],
+    "footer": "En utilisant notre site et nos services, vous acceptez la collecte et l'utilisation des informations conformément à cette politique."
+  },
+  "challengesAwards": {
+    "badge": "Fitness Zone · M'sila",
+    "titleLine1": "Défis",
+    "titleLine2": "& Récompenses",
+    "description": "À Fitness Zone, nous croyons qu'il faut pousser chaque athlète jusqu'à ses limites — et au-delà. Nous organisons régulièrement des défis pour les enfants et les adultes.",
+    "stats": [
+      { "value": "50+", "label": "Championnats Gagnés" },
+      { "value": "200+", "label": "Athlètes Récompensés" },
+      { "value": "∞", "label": "Enfants & Adultes" },
+      { "value": "365", "label": "Jours d'Entraînement" }
+    ],
+    "bannerBadge": "Chaque Victoire Célébrée",
+    "bannerTitle1": "Nous Concourons.",
+    "bannerTitle2": "Nous Récompensons. Nous Grandissons.",
+    "bannerDesc": "Des batailles de fitness pour les juniors aux compétitions de force pour les adultes, chaque défi est conçu pour libérer le potentiel et célébrer l'esprit guerrier.",
+    "galleryTitle": "Nos",
+    "galleryHighlight": "Moments",
+    "gallerySubtitle": "Cliquez sur une photo pour l'agrandir",
+    "viewPhoto": "Voir la Photo",
+    "ctaTitle": "Prêt à relever le défi ?",
+    "ctaDesc": "Rejoignez notre prochaine compétition et repartez avec votre récompense.",
+    "ctaButton": "Rejoindre Maintenant →"
+  },
+  "terms": {
+    "back": "Retour à l'Accueil",
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : Avril 2026",
+    "sections": [
+      {
+        "title": "Accord d'Adhésion",
+        "content": "En rejoignant Fitness Zone M'sila, vous acceptez de respecter les règles de notre établissement et notre code de conduite. L'adhésion est personnelle et non transférable."
+      }
+    ],
+    "footer": "Ensemble, nous atteignons l'excellence."
+  },
+  "therapy": {
+    "subtitle": "Séances Thérapeutiques Professionnelles",
+    "titleLine1": "RÉCUPÉRER &",
+    "titleLine2": "PERFORMER.",
+    "description": "Des séances thérapeutiques professionnelles conçues pour améliorer la récupération, réduire la douleur et optimiser la performance globale.",
+    "trustIndicators": ["Spécialistes Certifiés", "Sûr & Hygiénique"],
+    "bookSession": "Réserver une Séance",
+    "items": [
+      {
+        "title": "Thérapie Hijama Sèche",
+        "tag": "Massage Thérapeutique",
+        "description": "Un massage de récupération professionnel conçu pour soulager la tension musculaire, améliorer la circulation sanguine et accélérer la récupération après l'effort.",
+        "benefits": ["Réduit les courbatures", "Améliore la circulation", "Favorise la relaxation", "Accélère la récupération"]
+      },
+      {
+        "title": "Massage de Récupération",
+        "tag": "Gestion de la Douleur",
+        "description": "Une thérapie traditionnelle utilisant des ventouses pour stimuler le flux sanguin, libérer les toxines et réduire les raideurs musculaires.",
+        "benefits": ["Améliore le flux d'oxygène", "Soulage les douleurs chroniques", "Réduit l'inflammation", "Favorise la guérison naturelle"]
+      },
+      {
+        "title": "Thérapie Hijama par le Feu",
+        "tag": "Récupération Avancée",
+        "description": "Une technique de ventouses avancée utilisant une chaleur contrôlée pour créer une aspiration, renforçant la détoxification et soulageant les tensions profondes.",
+        "benefits": ["Relaxation musculaire profonde", "Renforce la détoxification", "Améliore le flux énergétique", "Aide pour les douleurs dorsales"]
+      }
+    ]
+  },
+  "languageSelector": {
+    "titleLine1": "REDEFINEZ VOTRE",
+    "titleLine2": "LANGUE.",
+    "description": "Sélectionnez votre langue pour vivre l'expérience ultime de transformation."
+  }
+}

@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #FCFEFB;
+    --text: #0A0A0A;
+  }
+
+  .dark {
+    --background: #0A0A0A;
+    --text: #FCFEFB;
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-background-light text-[#0A0A0A] transition-colors duration-500 overflow-x-hidden;
+    background-color: var(--background);
+    color: var(--text);
+  }
+
+  body.dark {
+    @apply bg-background-dark text-background-light;
+  }
+
+  /* Smooth scrolling with Lenis */
+  html.lenis {
+    height: auto;
+  }
+
+  .lenis.lenis-smooth {
+    scroll-behavior: auto;
+  }
+
+  .lenis.lenis-smooth [data-lenis-prevent] {
+    overscroll-behavior: contain;
+  }
+
+  .lenis.lenis-stopped {
+    overflow: hidden;
+  }
+
+  .lenis.lenis-scrolling iframe {
+    pointer-events: none;
+  }
+
+  /* Professional Gym Scrollbar Styling */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: var(--background);
+    border-left: 1px solid rgba(128, 128, 128, 0.1);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #05B0C0;
+    border-radius: 10px;
+    border: 2px solid var(--background);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #048c9a;
+  }
+
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: #05B0C0 var(--background);
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply backdrop-blur-md bg-white/10 border border-white/20 shadow-xl;
+  }
+  
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply bg-brand text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:shadow-[0_0_20px_rgba(5,176,192,0.4)] active:scale-95;
+  }
+}

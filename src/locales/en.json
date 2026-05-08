@@ -1,0 +1,432 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "coaches": "Coaches",
+    "pricing": "Pricing",
+    "joinNow": "Join Now"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Build",
+      "highlight": "Strength",
+      "quote": "\"Whatever the mind of man can conceive and believe, it can achieve.\"",
+      "author": "Napoleon Hill"
+    },
+    "slide2": {
+      "title": "Push",
+      "highlight": "Limits",
+      "quote": "\"The only person you are destined to become is the person you decide to be.\"",
+      "author": "Ralph Waldo Emerson"
+    },
+    "slide3": {
+      "title": "Find",
+      "highlight": "Balance",
+      "quote": "\"Strength does not come from physical capacity. It comes from an indomitable will.\"",
+      "author": "Mahatma Gandhi"
+    },
+    "startTraining": "Start Training",
+    "scheduleMeeting": "Schedule a meeting today!",
+    "email": "info@fitnesszone.dz",
+    "phone": "+213 123 456 789",
+    "status": {
+      "open": "We are Open",
+      "closed": "We are Closed"
+    }
+  },
+  "footer": {
+    "description": "M'sila's premier destination for fitness, transformation, and elite performance. Join the zone and redefine your limits.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact Us",
+    "locationTitle": "Our Location",
+    "address": "Rue Frères Sahnoun, M'sila, Algeria",
+    "email": "hello@fitnesszone.dz",
+    "copyright": "© 2026 FITNESS ZONE M'SILA. ALL RIGHTS RESERVED.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "logoAlt": "Fitness Zone Logo",
+    "copyrightYear": "© 2026 Fitness Zone M'sila.",
+    "allRightsReserved": "All rights reserved.",
+    "craftedBy": "Crafted by"
+  },
+  "socialProof": {
+    "stats": [
+      { "text": "10,000+ Members", "label": "Active Community" },
+      { "text": "4.9/5 Rating", "label": "Google Review" },
+      { "text": "Top Rated", "label": "In M'sila Region" },
+      { "text": "Certified", "label": "Professional Coaches" }
+    ]
+  },
+  "about": {
+    "subtitle": "Our Philosophy",
+    "titleLine1": "NOT JUST A GYM,",
+    "titleLine2": "A TRANSFORMATION.",
+    "description": "At Fitness Zone, we believe that true transformation starts with the mind. Our mission is to provide an elite environment where the residents of M'sila can push their boundaries and redefine what's possible.",
+    "feature1Title": "Identity Shift",
+    "feature1Desc": "We help you stop 'trying' to be fit and start 'being' an athlete.",
+    "feature2Title": "Elite Gear",
+    "feature2Desc": "World-class equipment designed for maximum efficiency and safety.",
+    "trainersCount": "15+",
+    "trainersLabel": "Expert Trainers"
+  },
+  "whyChoose": {
+    "subtitle": "Why Fitness Zone",
+    "titleLine1": "WHY WE ARE",
+    "titleLine2": "THE ELITE CHOICE.",
+    "description": "We don't just provide equipment; we provide an environment of absolute excellence designed to forge the best version of yourself.",
+    "features": [
+      { "title": "Elite Coaching", "desc": "Our master trainers bring decades of experience in competitive sports and body transformation to guide you." },
+      { "title": "World-Class Gear", "desc": "Train on the exact same biomechanically perfect equipment used by IFBB pros and Olympic athletes." },
+      { "title": "Scientific Method", "desc": "No guesswork. Every protocol, from nutrition to hypertrophy, is backed by the latest sports science." },
+      { "title": "Iron Brotherhood", "desc": "Join a community of dedicated, like-minded individuals who push each other to reach new heights daily." },
+      { "title": "Complete Recovery", "desc": "Access our premium recovery zone featuring ice baths, saunas, and advanced massage therapy." },
+      { "title": "Guaranteed Results", "desc": "Follow our systems, put in the work, and your transformation is absolutely inevitable." }
+    ]
+  },
+  "programs": {
+    "subtitle": "Our Programs",
+    "titleLine1": "PUSH YOUR",
+    "titleLine2": "LIMITS.",
+    "items": [
+      { "title": "Bodybuilding", "desc": "Sculpt your physique with advanced strength training programs." },
+      { "title": "Powerlifting", "desc": "Master the big three and build absolute raw strength." },
+      { "title": "Cardio & HIIT", "desc": "Boost your endurance and burn fat with high-intensity training." },
+      { "title": "Personal Training", "desc": "Get a customized roadmap to achieve your specific goals." },
+      { "title": "Judo", "desc": "Master the art of leverage and throws with elite judo instruction focused on discipline and technique." },
+      { "title": "Karate", "desc": "Develop explosive striking and mental fortitude through traditional and competitive Karate training." },
+      { "title": "Boxing", "desc": "Refine your footwork and striking power with professional boxing coaching for all skill levels." },
+      { "title": "Kickboxing", "desc": "Combine dynamic kicks and boxing combinations for ultimate conditioning and striking mastery." }
+    ]
+  },
+  "combatSports": {
+    "subtitle": "Elite Martial Arts Academy",
+    "titleLine1": "UNLEASH YOUR",
+    "titleLine2": "INNER WARRIOR.",
+    "descPart1": "Professional coaching programs designed specifically for",
+    "kids": "Kids",
+    "and": "and",
+    "adults": "Adults",
+    "descPart2": "of all skill levels.",
+    "viewSchedule": "View Schedule",
+    "items": [
+      {
+        "title": "Judo",
+        "tag": "Technique & Discipline",
+        "desc": "Master the art of throwing and grappling. Our Judo program focuses on leverage, balance, and the 'gentle way' of self-defense.",
+        "benefits": ["Core Strength", "Balance", "Mental Focus"]
+      },
+      {
+        "title": "Kickboxing",
+        "tag": "Power & Agility",
+        "desc": "A high-energy striking program combining boxing and kicking. Perfect for cardio, fat loss, and building explosive power.",
+        "benefits": ["Total Body Cardio", "Stress Relief", "Striking Speed"]
+      },
+      {
+        "title": "Karate",
+        "tag": "Tradition & Precision",
+        "desc": "Traditional Shotokan Karate focusing on precision, kata, and kumite. Building character and self-defense skills.",
+        "benefits": ["Self-Defense", "Discipline", "Flexibility"]
+      }
+    ]
+  },
+  "interactive": {
+    "subtitle": "Interactive Tools",
+    "titleLine1": "KNOW YOUR",
+    "titleLine2": "NUMBERS.",
+    "description": "Achieving your dream body is a science. Use our tools to understand your baseline and let our experts design the perfect path forward.",
+    "calories": "2,400+",
+    "caloriesLabel": "Avg Calories Burned",
+    "successRate": "85%",
+    "successLabel": "Success Rate",
+    "bmiTitle": "BMI Calculator",
+    "weightLabel": "Weight (kg)",
+    "heightLabel": "Height (cm)",
+    "yourBmi": "Your BMI",
+    "status": "Status",
+    "getPlan": "Get Personalized Plan",
+    "bmiStatus": {
+      "underweight": "Underweight",
+      "healthy": "Healthy",
+      "overweight": "Overweight",
+      "obese": "Obese"
+    }
+  },
+  "pricing": {
+    "subtitle": "Flexible Membership",
+    "titleLine1": "CHOOSE YOUR",
+    "titleLine2": "JOURNEY.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 30%",
+    "mostPopular": "Most Popular",
+    "currency": "DA / Mo",
+    "billedAnnually": "Billed annually ({{amount}} DA)",
+    "cta": "Start Transformation",
+    "plans": [
+      {
+        "name": "Starter",
+        "features": ["Standard Gym Access", "Locker Room Access", "Basic Training Plan", "1 Guest Pass/Month"]
+      },
+      {
+        "name": "Pro",
+        "features": ["All Starter Features", "All Classes Included", "Nutrition Consultation", "Advanced Progress Tracking"]
+      },
+      {
+        "name": "Elite",
+        "features": ["All Pro Features", "Personal Trainer (2x/week)", "Recovery Zone Access", "Free Supplements (Monthly)"]
+      }
+    ]
+  },
+  "languageSelector": {
+    "titleLine1": "REDEFINE YOUR",
+    "titleLine2": "LANGUAGE.",
+    "description": "Select your language to experience the ultimate transformation journey."
+  },
+  "coaches": {
+    "subtitle": "Expert Coaches",
+    "titleLine1": "TRAIN WITH THE",
+    "titleLine2": "BEST.",
+    "items": [
+      {
+        "name": "Ahmed Benali",
+        "role": "Strength Specialist",
+        "description": "Expert in powerlifting and body transformation with 10+ years of experience.",
+        "specialties": ["Powerlifting", "Hypertrophy", "Nutrition"]
+      },
+      {
+        "name": "Sarah Mansouri",
+        "role": "HIIT & Yoga Expert",
+        "description": "Specializes in high-intensity training and mobility for sustainable health.",
+        "specialties": ["HIIT", "Mobility", "Fat Loss"]
+      },
+      {
+        "name": "Karim Brahimi",
+        "role": "Functional Trainer",
+        "description": "Focuses on athletic performance and injury prevention for all levels.",
+        "specialties": ["Athleticism", "Rehab", "Endurance"]
+      }
+    ]
+  },
+  "owner": {
+    "subtitle": "Founder & Visionary",
+    "titleLine1": "DR. KAMEL",
+    "titleLine2": "LATRECHE.",
+    "quote": "\"My mission is to build more than just a gym. Fitness Zone is a sanctuary where discipline meets science, and where every member's potential is unlocked through elite guidance and an unwavering community spirit.\"",
+    "description": "As the founder and owner of Fitness Zone, Dr. Kamel Latreche established this facility with a clear vision: to provide a professional space where everyone, from dedicated athletes to beginners, can transform their lifestyle. His passion for health and discipline has created a community-focused environment that helps every member achieve their personal goals and embrace a better way of living.",
+    "call": "Call Directly",
+    "email": "Email Us",
+    "follow": "Follow Kamel"
+  },
+  "transformations": {
+    "subtitle": "Transformation Results",
+    "titleLine1": "REAL PEOPLE.",
+    "titleLine2": "REAL RESULTS.",
+    "before": "Before",
+    "after": "After",
+    "program": "{{time}} Program",
+    "validated": "Validated Result",
+    "items": [
+      {
+        "name": "Karim S.",
+        "stat": "-15kg Fat Loss",
+        "time": "12 Weeks"
+      },
+      {
+        "name": "Lina M.",
+        "stat": "+5kg Muscle Gain",
+        "time": "16 Weeks"
+      }
+    ]
+  },
+  "testimonials": {
+    "titleLine1": "WHAT OUR",
+    "titleLine2": "ATHLETES SAY.",
+    "items": [
+      {
+        "name": "Yacine K.",
+        "text": "The atmosphere here is unmatched. It's not just a gym, it's a second home. The coaches genuinely care about your progress."
+      },
+      {
+        "name": "Amel B.",
+        "text": "Best facility in M'sila, hands down. The equipment is top-tier and the community is so supportive."
+      },
+      {
+        "name": "Omar D.",
+        "text": "Fitness Zone changed my life. I've achieved results I never thought possible in just 6 months."
+      },
+      {
+        "name": "Sofia R.",
+        "text": "Elite equipment and a premium atmosphere. It feels like a high-end club, not just a gym."
+      }
+    ]
+  },
+  "faq": {
+    "subtitle": "Common Questions",
+    "titleLine1": "EVERYTHING YOU",
+    "titleLine2": "NEED TO KNOW.",
+    "description": "We provide the tools, the coaching, and the environment to help you reach your peak performance.",
+    "contact": "Contact Support",
+    "items": [
+      {
+        "q": "Do I need experience to join?",
+        "a": "Not at all! We welcome beginners and provide full orientation and personalized coaching for all new members."
+      },
+      {
+        "q": "What are your opening hours?",
+        "a": "We are open from 6:00 AM to 11:00 PM every day in M'sila. Some group classes have specific schedules."
+      },
+      {
+        "q": "How do I cancel my membership?",
+        "a": "You can cancel any time with a 30-day notice. Simply visit our reception or email us at support@fitnesszone.dz."
+      },
+      {
+        "q": "Are there student discounts?",
+        "a": "Yes, we offer special rates for students with a valid ID. Contact us for more details."
+      }
+    ]
+  },
+  "booking": {
+    "successTitle": "Registration Sent!",
+    "successMessage": "Our team will contact you within 24 hours to schedule your first session and tour.",
+    "backToWebsite": "Back to Website",
+    "subtitle": "Join the Elite",
+    "titleLine1": "START YOUR",
+    "titleLine2": "TRANSFORMATION.",
+    "description": "Fill out the form below for a free consultation and tour of our facility in M'sila. Your new life starts with a single click.",
+    "emailUs": "Email Us",
+    "phoneNumber": "Phone Number",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "goal": "Your Goal",
+      "goals": {
+        "weightLoss": "Weight Loss",
+        "muscleGain": "Muscle Gain",
+        "stamina": "Improved Stamina",
+        "rehab": "Rehabilitation",
+        "dryCupping": "Dry Cupping Therapy",
+        "recoveryMassage": "Recovery Massage",
+        "fireCupping": "Fire Cupping Therapy"
+      },
+      "message": "Message (Optional)",
+      "messagePlaceholder": "Tell us about your fitness journey...",
+      "sending": "Sending...",
+      "send": "Send Registration",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "privacy": {
+    "back": "Back to Home",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: April 2026",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "content": "At Fitness Zone M'sila, we collect personal information such as your name, email address, phone number, and fitness goals when you register through our booking forms. We also collect basic usage data through cookies to improve your browsing experience."
+      },
+      {
+        "title": "How We Use Your Data",
+        "items": [
+          "To contact you regarding your gym orientation and tours.",
+          "To customize your personal training and nutrition plans.",
+          "To send you important updates regarding facility hours or membership terms.",
+          "To improve our website performance and user experience."
+        ]
+      },
+      {
+        "title": "Data Security",
+        "content": "We implement industry-standard security measures to protect your personal information. Your data is stored securely and is only accessible by authorized staff members of Fitness Zone. We never sell or share your personal data with third-party marketing companies."
+      },
+      {
+        "title": "Your Rights",
+        "content": "You have the right to access, update, or request the deletion of your personal data at any time. If you wish to exercise these rights, please contact us at support@fitnesszone.dz or visit our reception desk in M'sila."
+      }
+    ],
+    "footer": "By using our website and services, you agree to the collection and use of information in accordance with this policy."
+  },
+  "challengesAwards": {
+    "badge": "Fitness Zone · M'sila",
+    "titleLine1": "Challenges",
+    "titleLine2": "& Awards",
+    "description": "At Fitness Zone, we believe in pushing every athlete to their limit — and beyond. We host regular challenges for both kids and adult athletes, and we reward every milestone with trophies, medals, and recognition that fuels the drive to keep going.",
+    "stats": [
+      { "value": "50+", "label": "Championships Won" },
+      { "value": "200+", "label": "Athletes Awarded" },
+      { "value": "∞", "label": "Kids & Adults" },
+      { "value": "365", "label": "Days of Training" }
+    ],
+    "bannerBadge": "Every Win Celebrated",
+    "bannerTitle1": "We Compete.",
+    "bannerTitle2": "We Reward. We Rise.",
+    "bannerDesc": "From junior fitness battles to adult strength competitions every challenge is designed to unlock potential, build character, and celebrate the warrior spirit in every member of our community.",
+    "galleryTitle": "Our",
+    "galleryHighlight": "Moments",
+    "gallerySubtitle": "Click any photo to view full-screen",
+    "viewPhoto": "View Photo",
+    "ctaTitle": "Ready to take the challenge?",
+    "ctaDesc": "Join our next competition and take home your award.",
+    "ctaButton": "Join Now →"
+  },
+  "terms": {
+    "back": "Back to Home",
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: April 2026",
+    "sections": [
+      {
+        "title": "Membership Agreement",
+        "content": "By joining Fitness Zone M'sila, you agree to abide by our facility rules and code of conduct. Membership is personal and non-transferable. You must be at least 16 years of age to join without parental consent."
+      },
+      {
+        "title": "Payments & Cancellations",
+        "items": [
+          "Monthly memberships are billed in advance.",
+          "Annual memberships are non-refundable after the first 14 days.",
+          "Cancellation requires a 30-day written notice via email or in person at the facility.",
+          "Late payments may result in a temporary suspension of access."
+        ]
+      },
+      {
+        "title": "Liability Waiver",
+        "content": "Physical training involves inherent risks. By using our facility and equipment, you acknowledge and accept responsibility for your physical safety. Fitness Zone is not liable for any injuries sustained during training or while on the premises, except in cases of proven gross negligence."
+      },
+      {
+        "title": "Code of Conduct",
+        "content": "We maintain a professional and respectful environment. Harassment of staff or other members, damage to equipment, or failure to follow hygiene rules (such as using towels and re-racking weights) may result in immediate termination of membership without refund."
+      }
+    ],
+    "footer": "Together, we achieve greatness."
+  },
+  "therapy": {
+    "subtitle": "Professional Therapeutic Sessions",
+    "titleLine1": "RECOVER &",
+    "titleLine2": "PERFORM.",
+    "description": "Professional therapeutic sessions designed to improve recovery, reduce pain, and enhance overall performance.",
+    "trustIndicators": ["Certified Specialists", "Safe & Hygienic"],
+    "bookSession": "Book Session",
+    "items": [
+      {
+        "title": "Dry Cupping Therapy",
+        "tag": "Therapeutic Massage",
+        "description": "A professional recovery massage designed to relieve muscle tension, improve blood circulation, and accelerate post-workout recovery. Ideal for athletes and individuals experiencing physical fatigue or stress.",
+        "benefits": ["Reduces muscle soreness and stiffness", "Improves blood circulation", "Enhances relaxation and stress relief", "Speeds up muscle recovery"]
+      },
+      {
+        "title": "Recovery Massage",
+        "tag": "Pain Management",
+        "description": "A traditional therapy using suction cups to stimulate blood flow, release toxins, and reduce muscle tightness. Safe, effective, and widely used for recovery and pain management.",
+        "benefits": ["Improves circulation and oxygen flow", "Helps relieve chronic pain", "Reduces inflammation", "Promotes natural healing"]
+      },
+      {
+        "title": "Fire Cupping Therapy",
+        "tag": "Advanced Recovery",
+        "description": "An advanced cupping technique using controlled heat to create suction. This method enhances detoxification, relieves deep muscle tension, and stimulates the body's natural recovery processes.",
+        "benefits": ["Deep muscle relaxation", "Enhances detoxification", "Improves energy flow in the body", "Helps with back and joint pain"]
+      }
+    ]
+  }
+}
